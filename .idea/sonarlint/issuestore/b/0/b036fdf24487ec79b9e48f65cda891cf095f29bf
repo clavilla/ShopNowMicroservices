@@ -1,0 +1,19 @@
+
+t
+java:S1602(",Remove useless curly braces around statement(ÕŠ¤‘ùÿÿÿÿ8¢ÔŽÃ‚2J$c0ff60e6-967e-4d84-af62-1c3ae2aa8da3
+ƒ	java:S125>"<This block of commented-out lines of code should be removed.(ò—Þëýÿÿÿÿ8¨ÔŽÃ‚2J$24ecdf1c-2642-42a7-bb31-240d1805446b
+~	java:S125Q"<This block of commented-out lines of code should be removed.(ÇÕ“ù8©ÔŽÃ‚2J$e59f2c38-1620-465d-864a-ccf2992dfdc8
+’
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€8ÆïŽÃ‚2J$35ae7805-076d-4fa8-937f-e83de9c31ed0
+™
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8ÇïŽÃ‚2J$9e0b0162-a7e6-4a53-901f-97f97f11a3cb
+ 
+java:S1128"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥à8ÇïŽÃ‚2J$e0f53787-3531-4663-bd7d-749bf06d6523
+ 
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.password.NoOpPasswordEncoder'.(ƒ»ÅÅ8ÖïŽÃ‚2J$22845bca-fab7-4dbb-874b-92c423feb618
+©
+java:S1128"aRemove this unused import 'org.springframework.security.provisioning.InMemoryUserDetailsManager'.(îŒúùÿÿÿÿ8æïŽÃ‚2J$c3b984d3-334b-49d7-8a93-00cbb2125a11
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8æïŽÃ‚2J$f02c34ed-e6b5-4408-905c-44f78b1c2788
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8æïŽÃ‚2J$1857cd2c-66fd-424a-bc61-a71b19de3312
